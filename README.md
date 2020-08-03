@@ -31,7 +31,7 @@ Outside of study I enjoy spending time chatting with mates online and playing a 
 <h3>Plan to gain required skills:</h3>
 <p>I am hoping that once I have completed my studies at RMIT university I will have the knowledge and skills so that I can get and entry level position with a similar skill set to this position. I already have a solid foundation of the skills needed for this position shown above, but the main thing that I am lacking is the in the field experience. This is why I am hoping that if I can get into an entry level IT role, here I will be able to learn and further my skills and knowledge, all while working and gain industry experience.</p>
 
-<img src="Image1.jpg" alt="IdealJob">
+<img src="IdealJob.jpg" alt="IdealJob">
 
 </body>
 </html>
