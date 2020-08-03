@@ -19,6 +19,8 @@ Outside of study I enjoy spending time chatting with mates online and playing a 
 
 <h2>Ideal Job</h2>
 
+<img src="IdealJob.jpg" alt="IdealJob">
+
 <h3>Position Description:</h3>
 <p>My ideal job would be one similar to the position shown here. It is a role as a Senior Systems Engineer, preferably in a large business or corporation. This role involves managing large IT systems, providing IT support, implementing new technologies into existing systems, working with a small team, and implementing a variety of both hardware and software.</p>
 
@@ -31,7 +33,6 @@ Outside of study I enjoy spending time chatting with mates online and playing a 
 <h3>Plan to gain required skills:</h3>
 <p>I am hoping that once I have completed my studies at RMIT university I will have the knowledge and skills so that I can get and entry level position with a similar skill set to this position. I already have a solid foundation of the skills needed for this position shown above, but the main thing that I am lacking is the in the field experience. This is why I am hoping that if I can get into an entry level IT role, here I will be able to learn and further my skills and knowledge, all while working and gain industry experience.</p>
 
-<img src="IdealJob.jpg" alt="IdealJob">
 
 </body>
 </html>
