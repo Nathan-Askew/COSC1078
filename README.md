@@ -37,12 +37,15 @@ Outside of study I enjoy spending time chatting with mates online and playing a 
 
 
 <h2>Myers-Briggs test:</h2>
+<img src="Test1.jpg" alt="Test1">
 <p>https://www.16personalities.com/</p>
 
 <h2>Learning style test:</h2>
+<img src="Test2.jpg" alt="Test2">
 <p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</p>
 
 <h2>Additional online test:</h2>
+<img src="Test3.jpg" alt="Test3">
 <p>https://www.opencolleges.edu.au/careers/career-quiz</p>
 
 <h2>Quiz review:</h2>
