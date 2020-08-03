@@ -21,6 +21,7 @@ Outside of study I enjoy spending time chatting with mates online and playing a 
 
 <img src="IdealJob.jpg" alt="IdealJob">
 <p>https://www.seek.com.au/job/50322008?type=standout#searchRequestToken=f61bf496-d7d3-4a51-acc0-f75ae581046a</p>
+<p>https://www.seek.com.au/career-advice/role/systems-engineer</p> 
 
 <h3>Position Description:</h3>
 <p>My ideal job would be one similar to the position shown here. It is a role as a Senior Systems Engineer, preferably in a large business or corporation. This role involves managing large IT systems, providing IT support, implementing new technologies into existing systems, working with a small team, and implementing a variety of both hardware and software.</p>
@@ -34,6 +35,18 @@ Outside of study I enjoy spending time chatting with mates online and playing a 
 <h3>Plan to gain required skills:</h3>
 <p>I am hoping that once I have completed my studies at RMIT university I will have the knowledge and skills so that I can get and entry level position with a similar skill set to this position. I already have a solid foundation of the skills needed for this position shown above, but the main thing that I am lacking is the in the field experience. This is why I am hoping that if I can get into an entry level IT role, here I will be able to learn and further my skills and knowledge, all while working and gain industry experience.</p>
 
+
+<h2>Myers-Briggs test:</h2>
+<p>https://www.16personalities.com/</p>
+
+<h2>Learning style test:</h2>
+<p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</p>
+
+<h2>Additional online test:</h2>
+<p>https://www.opencolleges.edu.au/careers/career-quiz</p>
+
+<h2>Quiz review:</h2>
+<p>The results from all of these test point to logical thinking, practicality, and calmness. I feel that these are not far from the mark and I am glad that this final career test verified my own thoughts of careers that would fit me best. I think these results will lead me to try to avoid emotional thinking in teamwork and try to focus on the facts and details of the task at hand. Due to this I might try and find a group of varied people as this will mean that a more emotional thinking can consider the same issue or task from another perspective</p>
 
 </body>
 </html>
