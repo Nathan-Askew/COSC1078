@@ -1,3 +1,68 @@
+#header .header-area {
+  padding-top: 34px;
+  padding-bottom: 39px;
+  overflow: hidden; }
+
+#header .contact-info {
+  margin: 0;
+  overflow: hidden; }
+  #header .contact-info li {
+    font-size: 17px;
+    line-height: 20px;
+    float: left;
+    margin: 0 30px 0 0; }
+  #header .contact-info .icon {
+    font-size: 29px;
+    line-height: 33px;
+    color: #00b7ff;
+    margin: 8px 16px 0 0; }
+  #header .contact-info strong {
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+    font-weight: 600;
+    display: block; }
+  #header .contact-info a {
+    color: #898989;
+    -webkit-transition: all 0.25s linear;
+    -o-transition: all 0.25s linear;
+    transition: all 0.25s linear; }
+    #header .contact-info a:hover {
+      color: #61D4B3; }
+
+#header .social-list {
+  float: right;
+  padding: 7px 0 0; }
+
+#header .account-cart {
+  font-size: 16px;
+  line-height: 18px;
+  color: #000;
+  margin: 0;
+  padding: 8px 0 0;
+  float: left; }
+  #header .account-cart li {
+    float: left;
+    margin: 0 0 0 21px; }
+    #header .account-cart li span {
+      color: #000;
+      margin: 0 0 0 10px; }
+  #header .account-cart .icon-user,
+  #header .account-cart .icon-cart {
+    font-size: 15px;
+    line-height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #00b7ff; }
+  #header .account-cart a {
+    color: #000;
+    display: block;
+    -webkit-transition: all 0.25s linear;
+    -o-transition: all 0.25s linear;
+    transition: all 0.25s linear; }
+
+
+
 body {
   background-color: blue;
 }
