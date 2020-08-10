@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Assignment 1 - Project Idea</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="personal-information.html">Project Idea</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="personal-information.html">Personal Information</a></li>
+								<li><a href="it-interest.html">Interests in IT</a></li>
+								<li><a href="ideal-job.html">Ideal Job</a></li>
+								<li><a href="quiz-results.html">Quiz Results</a></li>
+								<li><a href="project-idea.html">Project Idea</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-gem"></span></div>
+							<h2>Project Idea</h2>
+							<p>My Profile - Nathan Askew - s3720643</a></p>
+						</div>
+					</section>
+	
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="https://nathan-askew.github.io/COSC1078/images/pic01.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">A bit of information about me, who I am, where I'm from and what I enjoy doing.</h2>
+									</div>
+								</div>
+							</section>
+
+					<section id="four" class="wrapper alt style1">
+							<div class="inner">
+								<h2 class="major">Bio.</h2>
+								<p>I was born in England and moved over to Australia when I was 7, while in Australia I have completed all high schooling through VCE and also undertook a VET subject at the Gordon which got me a partial completion of a cert 3 in information, digital media and technology. I then moved into university and began studying a Bachelor of Business in information systems. I am now in my final semester of a three-year degree.</p>
+								<p>Outside of study I enjoy spending time in Discord chatting with mates online and playing a few games such as CS:GO, Overwatch, RimWorld, Dirt Rally 2.0, etc. When the Weather is good I'm often out taking my dogs for a walk or working in the yard, when it's crapy wheather I'm normaly out in the shed working on one of many different projects. Whether that is fixing my car (again) or working on some old farm machinery or fixing up an old dirt bike. If it is mechanical or has an engine, I'm morre than happy to tinker with it and try to get the thing going. However, this normally has varying levels of success.</p>
+								<p>Here are some Photos of my car, the engine I had to swap into it (The last one broke, not my fault) and the before mentioned dirt bike I'm (gradually) fixing. </p>
+								<a href="#" class="image"><img src="https://nathan-askew.github.io/COSC1078/images/PersonalInfo1.jpg" alt="Engine" width="500" height="600"/> </a>
+								<a href="#" class="image"><img src="https://nathan-askew.github.io/COSC1078/images/PersonalInfo2.jpg" alt="Car" width="1000" height="600"/> </a>
+								<a href="#" class="image"><img src="https://nathan-askew.github.io/COSC1078/images/PersonalInfo3.JPG" alt="Bike" width="500" height="600"/> </a>
+								</section>
+							</div>
+						
+						<section id="four" class="wrapper alt style1">
+							<div class="inner">
+								<h2><a href="index.html">Back to Home.</a></h2>
+								</section>
+							</div>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
